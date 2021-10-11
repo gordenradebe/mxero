@@ -5,7 +5,6 @@ module.exports = {
         projectId: "mxero-6036d",
         storageBucket: "mxero-6036d.appspot.com",
         messagingSenderId: "245317868997",
-        appId: "1:245317868997:web:f685de92ba15171ba27fac",
-        webpack5: true
+        appId: "1:245317868997:web:f685de92ba15171ba27fac"
     },
   }
