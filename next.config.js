@@ -1,7 +1,4 @@
 module.exports = {
-                    {
-        webpack5: true,
-}
     env: {
         apiKey: "AIzaSyAIYhn8PrpUI0jhv8bsJIRjTqK96oehuD8",
         authDomain: "mxero-6036d.firebaseapp.com",
